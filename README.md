@@ -1,6 +1,6 @@
 # IDMX 11ty Sass Starter
 
-The set of development scripts in this starter is configured to watch and compile a simple Sass structure using 11ty.
+This is an assigment from IDMX 268-99V whereby It can be seen a poem from a page programmed by using simple SASS and structured using 11ty
 
 The code is located in the `src` folder and the page is created in the `public` folder.
 
@@ -12,13 +12,13 @@ The build process includes minifiying and autoprefixing of styles via the `postb
 
 **`npm install`**
 
->Run this command once to install the needed node modules.
+>Run this command once on a new terminal (In windows Will be Windows PowerShell) to install the needed node modules.
 
 ## Development Scripts
 
 **`npm start`**
 
-> This script runs 11ty with hot reload and served at the url localhost:8080. It will reload whenever there are HTML or Sass changes.
+> This script runs 11ty with hot reload and served at the url localhost:8080. It will reload whenever there are HTML or SASS changes.
 
 **`npm run build`**
 
